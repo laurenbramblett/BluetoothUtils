@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""PyBluez simple example rfcomm-client.py
+"""PyBluez simple example rfcomm-client-spin.py
 
 Simple demonstration of a client application that uses RFCOMM sockets intended
 for use with rfcomm-server.
 
-Author: Albert Huang <albert@csail.mit.edu>
-$Id: rfcomm-client.py 424 2006-08-24 03:35:54Z albert $
+Author: Lauren Bramblett
 """
 
 import sys

@@ -1,10 +1,9 @@
 
-"""PyBluez simple example rfcomm-server.py
+"""PyBluez listening via text file and ROS application
 
-Simple demonstration of a server application that uses RFCOMM sockets.
+Simple demonstration of reading from a text file and sending command via ROS message.
 
-Author: Albert Huang <albert@csail.mit.edu>
-$Id: rfcomm-server.py 518 2007-08-10 07:20:07Z albert $
+Author: Lauren Bramblett
 """
 
 import bluetooth
